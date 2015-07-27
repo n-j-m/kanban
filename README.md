@@ -1,2 +1,2 @@
-# kanban
-Kanban board
+# Kanban
+A kanban board app.
